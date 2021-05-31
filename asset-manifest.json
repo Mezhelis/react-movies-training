@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-movies-training/static/css/main.be1cb7d2.chunk.css",
+    "main.js": "/react-movies-training/static/js/main.fa8f8378.chunk.js",
+    "main.js.map": "/react-movies-training/static/js/main.fa8f8378.chunk.js.map",
+    "runtime-main.js": "/react-movies-training/static/js/runtime-main.8a58e1a8.js",
+    "runtime-main.js.map": "/react-movies-training/static/js/runtime-main.8a58e1a8.js.map",
+    "static/css/2.6b560088.chunk.css": "/react-movies-training/static/css/2.6b560088.chunk.css",
+    "static/js/2.f66e08be.chunk.js": "/react-movies-training/static/js/2.f66e08be.chunk.js",
+    "static/js/2.f66e08be.chunk.js.map": "/react-movies-training/static/js/2.f66e08be.chunk.js.map",
+    "index.html": "/react-movies-training/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/react-movies-training/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.be1cb7d2.chunk.css.map": "/react-movies-training/static/css/main.be1cb7d2.chunk.css.map",
+    "static/js/2.f66e08be.chunk.js.LICENSE.txt": "/react-movies-training/static/js/2.f66e08be.chunk.js.LICENSE.txt",
+    "static/media/icons.7da6b0dc.svg": "/react-movies-training/static/media/icons.7da6b0dc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a58e1a8.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.f66e08be.chunk.js",
+    "static/css/main.be1cb7d2.chunk.css",
+    "static/js/main.fa8f8378.chunk.js"
+  ]
+}
