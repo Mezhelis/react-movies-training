@@ -1,0 +1,56 @@
+.search-page {
+  &__body {
+    margin: 20px -10px 0;
+  }
+}
+
+.pagination {
+  &__body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__list {
+    padding: 0;
+    display: flex;
+    margin: 10px -5px;
+  }
+
+  &__item {
+    margin: 0 5px;
+  }
+
+  &__btn {
+    background: transparent;
+    border: 2px solid #ad8c12;
+    color: #ad8c12;
+    border-radius: 15px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &--active {
+      background: #cca516;
+      color: #ffffff;
+    }
+
+    &:hover {
+      background: #ad8c12;
+      color: #ffffff;
+    }
+  }
+
+  &__svg {
+    width: 100%;
+    height: 100%;
+    fill: #ad8c12;
+    transition: fill 0.3s ease-in-out;
+
+    &:hover {
+      fill: #ffcb17;
+    }
+  }
+}
